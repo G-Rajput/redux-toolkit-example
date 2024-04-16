@@ -1,6 +1,6 @@
-// createslice
-// initialize initial state
-// slice -> name, mention initial state, actions
+//createslice
+//initialize initial state
+//slice ->name, mention initial state, actions
 
 import { createSlice } from "@reduxjs/toolkit";
 
