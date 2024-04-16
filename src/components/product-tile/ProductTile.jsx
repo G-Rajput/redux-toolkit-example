@@ -16,6 +16,11 @@ const ProductTile = ({ product }) => {
             {product.title}
           </h1>
         </div>
+        <div className="flex items-center justify-center w-full mt-5">
+          <button className="bg-red-950 text-white border-2 rounded-lg font-bold p-4">
+            Add to Cart
+          </button>
+        </div>
       </div>
     </div>
   );
